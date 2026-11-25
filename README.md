@@ -5,27 +5,27 @@ Projects, experiments and utilities focused on monitoring, automation, analytics
 <p align="center">
 
 <a href="#core-initiatives">
-  <img src="https://img.shields.io/badge/Core%20Initiatives-2D3142?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Core%20Initiatives-283044?style=for-the-badge" />
 </a>
 
-<a href="#data--monitoring">
-  <img src="https://img.shields.io/badge/Data%20%26%20Monitoring-2F5D62?style=for-the-badge" />
+<a href="#operations--planning">
+  <img src="https://img.shields.io/badge/Operations%20%26%20Planning-3C5A6B?style=for-the-badge" />
 </a>
 
-<a href="#automation">
-  <img src="https://img.shields.io/badge/Automation-355C7D?style=for-the-badge" />
+<a href="#monitoring--automation">
+  <img src="https://img.shields.io/badge/Monitoring%20%26%20Automation-2F5D62?style=for-the-badge" />
+</a>
+
+<a href="#knowledge--capability">
+  <img src="https://img.shields.io/badge/Knowledge%20%26%20Capability-4E6E58?style=for-the-badge" />
 </a>
 
 <a href="#spatial--mapping">
   <img src="https://img.shields.io/badge/Spatial%20%26%20Mapping-4F7942?style=for-the-badge" />
 </a>
 
-<a href="#analytics">
-  <img src="https://img.shields.io/badge/Analytics-6C5B7B?style=for-the-badge" />
-</a>
-
 <a href="#creative-projects">
-  <img src="https://img.shields.io/badge/Creative%20Projects-B56576?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Creative%20Projects-6C5B7B?style=for-the-badge" />
 </a>
 
 </p>
@@ -117,7 +117,13 @@ Areas explored:
 
 ## Data & Monitoring
 
-Projects involving:
+Projects involving the collection, storage, validation and interpretation of information over time.
+
+**Associated Projects**
+- Project 1
+- Project 4
+
+Areas explored:
 
 - Weather and rainfall monitoring
 - Historical data archiving
@@ -125,12 +131,20 @@ Projects involving:
 - Automated data acquisition
 - Event detection systems
 - Data integrity and validation
+- Operational metrics
+- Long-term trend monitoring
 
 ---
 
 ## Automation
 
-Projects focused on reducing repetitive work through:
+Projects focused on reducing repetitive work through integration, scripting and workflow enhancement.
+
+**Associated Projects**
+- Project 1
+- Project 4
+
+Areas explored:
 
 - Scheduled processes
 - Workflow automation
@@ -138,24 +152,40 @@ Projects focused on reducing repetitive work through:
 - Information aggregation
 - Database integration
 - Batch processing systems
+- Task consolidation
+- Process standardisation
 
 ---
 
 ## Spatial & Mapping
 
-Projects involving:
+Projects involving geographic information, visualisation and spatial workflows.
+
+**Associated Projects**
+- Project 3
+
+Areas explored:
 
 - Geographic datasets
 - Mapping workflows
 - Spatial analysis
 - Data visualisation
 - Location-based reporting
+- Catchment investigations
+- Spatial decision support
+- Technical reference systems
 
 ---
 
 ## Analytics
 
-Projects related to:
+Projects related to interpretation, reporting and decision support.
+
+**Associated Projects**
+- Project 1
+- Project 4
+
+Areas explored:
 
 - Dashboard development
 - Historical trend analysis
@@ -163,19 +193,28 @@ Projects related to:
 - Monitoring and reporting
 - Data exploration
 - Decision-support tools
+- Performance tracking
+- Executive summaries
 
 ---
 
 ## Creative Projects
 
-Occasional explorations involving:
+Projects undertaken primarily for experimentation, exploration and personal interest.
+
+**Associated Projects**
+- Project 2
+
+Areas explored:
 
 - Interactive display systems
 - Hardware-based projects
 - Community software ecosystems
 - Custom module development
 - Design experimentation
-
+- Woodworking
+- User interface development
+- Home automation concepts
 ---
 
 ## Repository Organisation
