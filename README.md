@@ -1,6 +1,12 @@
-# Tongwin
+# Tuong Huynh
+
+Projects, experiments and utilities focused on monitoring, automation, analytics, planning systems and practical problem-solving.
 
 <p align="center">
+
+<a href="#core-initiatives">
+  <img src="https://img.shields.io/badge/Core%20Initiatives-2D3142?style=for-the-badge" />
+</a>
 
 <a href="#data--monitoring">
   <img src="https://img.shields.io/badge/Data%20%26%20Monitoring-2F5D62?style=for-the-badge" />
@@ -26,9 +32,86 @@
 
 ---
 
-This profile contains projects focused on automation, data collection, analysis, monitoring systems, spatial workflows and practical problem-solving.
+This profile contains a collection of public repositories, experiments and supporting material relating to monitoring systems, data collection, automation, analytics and workflow improvement.
 
 Most repositories begin with a problem, an annoyance, a question, or an opportunity to improve an existing process.
+
+---
+
+## Core Initiatives
+
+The following project streams represent the primary focus of ongoing development.
+
+### Operations & Planning
+
+Projects focused on consolidating information, improving visibility and supporting decision-making across interconnected workflows.
+
+**Associated Projects**
+- Project 1
+
+Areas explored:
+
+- Information aggregation
+- Operational oversight
+- Workflow coordination
+- Centralised reporting
+- Task management
+- Planning systems
+- Knowledge visibility
+
+---
+
+### Monitoring & Automation
+
+Projects involving data acquisition, event monitoring, automated workflows and historical archiving.
+
+**Associated Projects**
+- Project 4
+
+Areas explored:
+
+- Data collection
+- Event detection
+- Historical archives
+- Automated processing
+- Monitoring platforms
+- Dashboard development
+
+---
+
+### Knowledge & Capability
+
+Projects focused on learning systems, workflow consistency, technical guidance and knowledge retention.
+
+**Associated Projects**
+- Project 3
+
+Areas explored:
+
+- Learning pathways
+- Structured checklists
+- Knowledge management
+- Reference systems
+- Process consistency
+- Continuous improvement
+
+---
+
+### Experimental & Creative
+
+Projects undertaken primarily for exploration, learning and community-driven development.
+
+**Associated Projects**
+- Project 2
+
+Areas explored:
+
+- Hardware integration
+- Interactive displays
+- Woodworking
+- User interface experimentation
+- Community-developed modules
+- Custom software modules
 
 ---
 
@@ -43,11 +126,6 @@ Projects involving:
 - Event detection systems
 - Data integrity and validation
 
-**Associated projects**
-
-- Project 4
-- Supporting monitoring and archival utilities
-
 ---
 
 ## Automation
@@ -56,15 +134,10 @@ Projects focused on reducing repetitive work through:
 
 - Scheduled processes
 - Workflow automation
-- File management utilities
 - Reporting tools
+- Information aggregation
 - Database integration
 - Batch processing systems
-
-**Associated projects**
-
-- Project 1
-- Project 4
 
 ---
 
@@ -74,14 +147,9 @@ Projects involving:
 
 - Geographic datasets
 - Mapping workflows
-- Data visualisation
 - Spatial analysis
+- Data visualisation
 - Location-based reporting
-
-**Associated projects**
-
-- Project 3
-- Supporting spatial and planning utilities
 
 ---
 
@@ -89,35 +157,24 @@ Projects involving:
 
 Projects related to:
 
+- Dashboard development
 - Historical trend analysis
 - Statistical assessment
-- Dashboard development
-- Data exploration
 - Monitoring and reporting
-
-**Associated projects**
-
-- Project 1
-- Project 4
+- Data exploration
+- Decision-support tools
 
 ---
 
 ## Creative Projects
 
-Projects built primarily for experimentation, learning and personal interest.
+Occasional explorations involving:
 
-**Associated projects**
-
-- Project 2
-
-Areas of exploration include:
-
-- Interactive displays
-- Hardware integration
-- Woodworking
-- Community-developed modules
+- Interactive display systems
+- Hardware-based projects
+- Community software ecosystems
 - Custom module development
-- User interface experimentation
+- Design experimentation
 
 ---
 
@@ -135,20 +192,19 @@ Areas of exploration include:
 
 ## Current Focus
 
-- Data acquisition systems
+- Monitoring systems
 - Historical archive development
-- Monitoring workflows
-- Analytical tooling
 - Process automation
-- Open-data applications
-- Project management tools
-- Planning systems
+- Planning platforms
 - Knowledge management
+- Data acquisition systems
+- Analytical tooling
+- Open-data applications
 
 ---
 
 ## Profile
 
-Repositories are organised around practical solutions, experimentation and continuous improvement. Projects range from small utilities through to larger systems involving data collection, storage, processing and analysis.
+Repositories are organised around practical solutions, experimentation and continuous improvement. Projects range from small utilities through to larger platforms involving data collection, storage, processing, analysis and operational support.
 
-Selected private projects are referenced by project number only.
+Selected private work is referenced by project number only.
