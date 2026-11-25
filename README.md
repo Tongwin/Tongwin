@@ -19,3 +19,5 @@ Just a personal repo to make my life easier, both at home and at work. Main focu
 - **Knowledge & Capability** (Project 3)
 - **Spatial & Mapping**
 - **Experimental & Creative** (Project 2)
+
+Selected private work is referenced by project number only and can be accessed upon request. Refer to Extra Info.md for more information.
