@@ -28,9 +28,7 @@ Projects, experiments and utilities focused on monitoring, automation, planning 
 
 ---
 
-Most repositories begin with a problem, an annoyance, a question, or an opportunity to improve an existing process.
-
-Selected private work is referenced by project number only.
+Just a personal repo to make my life easier, both at home and at work. Main focus is optimising as many processes as possible. Some connected works relate to TUFLOW, qGIS, Microsoft Projects, representative dashboards and scripting critical sources for archiving (relating to storms and hydrology).
 
 ---
 
