@@ -1,19 +1,4 @@
-
-<!--
-**Tongwin/Tongwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Tuong Huynh
+# Tongwin
 
 <p align="center">
 
@@ -43,7 +28,7 @@ Here are some ideas to get you started:
 
 This profile contains projects focused on automation, data collection, analysis, monitoring systems, spatial workflows and practical problem-solving.
 
-The majority of repositories originate from real-world problems that benefit from improved data visibility, process automation or decision support.
+Most repositories begin with a problem, an annoyance, a question, or an opportunity to improve an existing process.
 
 ---
 
@@ -58,6 +43,11 @@ Projects involving:
 - Event detection systems
 - Data integrity and validation
 
+**Associated projects**
+
+- Project 4
+- Supporting monitoring and archival utilities
+
 ---
 
 ## Automation
@@ -71,6 +61,11 @@ Projects focused on reducing repetitive work through:
 - Database integration
 - Batch processing systems
 
+**Associated projects**
+
+- Project 1
+- Project 4
+
 ---
 
 ## Spatial & Mapping
@@ -82,6 +77,11 @@ Projects involving:
 - Data visualisation
 - Spatial analysis
 - Location-based reporting
+
+**Associated projects**
+
+- Project 3
+- Supporting spatial and planning utilities
 
 ---
 
@@ -95,16 +95,29 @@ Projects related to:
 - Data exploration
 - Monitoring and reporting
 
+**Associated projects**
+
+- Project 1
+- Project 4
+
 ---
 
 ## Creative Projects
 
-Occasional explorations involving:
+Projects built primarily for experimentation, learning and personal interest.
 
-- Logo development
-- Visual identity concepts
-- Community-themed design work
-- Generative design experimentation
+**Associated projects**
+
+- Project 2
+
+Areas of exploration include:
+
+- Interactive displays
+- Hardware integration
+- Woodworking
+- Community-developed modules
+- Custom module development
+- User interface experimentation
 
 ---
 
@@ -128,9 +141,14 @@ Occasional explorations involving:
 - Analytical tooling
 - Process automation
 - Open-data applications
+- Project management tools
+- Planning systems
+- Knowledge management
 
 ---
 
 ## Profile
 
 Repositories are organised around practical solutions, experimentation and continuous improvement. Projects range from small utilities through to larger systems involving data collection, storage, processing and analysis.
+
+Selected private projects are referenced by project number only.
